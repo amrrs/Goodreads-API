@@ -1,20 +1,21 @@
 # Goodreads API 
-Basic Goodreads API implementation in Python
+Basic Goodreads API implementation in Python 
+Note: This is a very basic implementation that doesn't use OAuth
 
 ## Extracting Author Information by Author id using Goodreads API
 
-Get your developer key here: https://www.goodreads.com/api/keys 
+### Get your developer key here: https://www.goodreads.com/api/keys 
 
-Simple Google Search to extract Author ID:
+### Simple Google Search to extract Author ID:
 
 ![Author ID](\author_id.PNG)
 
 
-Author Info Screenshot:
+### Author Info Screenshot:
 
 ![Screenshot](\goodreads_api_author_info.PNG)
 
-Downloaded Author Image:
+### Downloaded Author Image:
 
 ![Author Image](\1439.jpg)
 
