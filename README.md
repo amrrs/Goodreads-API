@@ -1,5 +1,6 @@
 # Goodreads API 
-Basic Goodreads API implementation in Python 
+Basic Goodreads API implementation in Python
+
 Note: This is a very basic implementation that doesn't use OAuth
 
 ## Extracting Author Information by Author id using Goodreads API
