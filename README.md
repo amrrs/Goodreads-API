@@ -1,5 +1,5 @@
 # Goodreads API 
-Basic [Goodreads API!](https://www.goodreads.com/api/index) implementation in Python
+Basic [Goodreads API](https://www.goodreads.com/api/index) implementation in Python
 
 Note: This is a very basic implementation that doesn't use OAuth
 
