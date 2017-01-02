@@ -3,6 +3,8 @@ Basic [Goodreads API](https://www.goodreads.com/api/index) implementation in Pyt
 
 Note: This is a very basic implementation that doesn't use OAuth
 
+More Info: [Goodreads Developers Group](https://www.goodreads.com/group/show/8095-goodreads-developers)
+
 ## Extracting Author Information by Author id using Goodreads API
 
 ### Get your developer key here: https://www.goodreads.com/api/keys 
