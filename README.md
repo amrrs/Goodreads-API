@@ -11,15 +11,15 @@ More Info: [Goodreads Developers Group](https://www.goodreads.com/group/show/809
 
 ### Simple Google Search to extract Author ID:
 
-![Author ID](\author_id.PNG)
+![Author ID](author_id.PNG)
 
 
 ### Author Info Screenshot:
 
-![Screenshot](\goodreads_api_author_info.PNG)
+![Screenshot](goodreads_api_author_info.PNG)
 
 ### Downloaded Author Image:
 
-![Author Image](\1439.jpg)
+![Author Image](1439.jpg)
 
 Courtesy: https://www.goodreads.com/ 
